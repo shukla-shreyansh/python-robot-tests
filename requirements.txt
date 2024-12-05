@@ -1,0 +1,7 @@
+robotframework==6.1.1
+robotframework-seleniumlibrary==5.1.3
+PyYAML==6.0.2
+robotframework-appiumlibrary==2.1.0
+robotframework-jsonlibrary==0.5
+selenium-wire==5.1.0
+blinker==1.7.0
